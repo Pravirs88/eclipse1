@@ -11,4 +11,5 @@ String firefoxPath="D:\\selenium\\drivers\\geckodriver.exe";
 public void chrome() throws InterruptedException;
 public void fireFox() throws InterruptedException;
 public void edge();
+public void IE();
 }
